@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989824007649",
+    "project_id": "adu-map",
+    "storage_bucket": "adu-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989824007649:android:15b53126a3da74874a26a0",
+        "android_client_info": {
+          "package_name": "com.neva.final_adumap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByGPvWIe9stgYCKfRKsADTd8ajdpZ4qsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

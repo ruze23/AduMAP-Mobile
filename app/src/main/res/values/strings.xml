@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">ADUMAP</string>
+    <string name="adu_map">ADU MAP</string>
+    <string name="welcome_klasmeyt">Welcome Klasmeyt!</string>
+    <string name="saan_ka">Saan ka?</string>
+    <string name="map">MAP</string>
+    <string name="forum">FORUM</string>
+    <string name="navigate_through_st_vincent_building">Navigate through St. Vincent building.</string>
+    <string name="join_klasmeyts_discussions_and_forums">Join Klasmeyts discussions and forums!</string>
+    <string name="account_log_in">Account Log In</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="or">Or</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="first_name">First Name</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_a_new_post">Create a new post</string>
+    <string name="title">Title:</string>
+    <string name="content">Content:</string>
+    <string name="create_post">Create Post</string>
+    <string name="new_post">New Post</string>
+    <string name="home_page">Home Page</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="logout">Logout</string>
+    <string name="nav_open">Open navigation Drawer</string>
+    <string name="nav_close">Close navigation Drawer</string>
+    <string name="adumap">AduMAP</string>
+    <string name="account_profile">Account Profile</string>
+    <string name="update_account">Update Account</string>
+    <string name="post_as">Post as:</string>
+    <string name="sv_map">SV Map</string>
+
+    <string-array name="Floor">
+        <item value="1stFloor">1st Floor</item>
+        <item value="2ndFloor">2nd Floor</item>
+        <item value = "3rdFloor">3rd Floor</item>
+    </string-array>
+
+    <string-array name="Room1st">
+        <item value="SvClinic">SV Clinic</item>
+        <item value="ITdept">IT and CS Department</item>
+        <item value = "SVArchive">Archive Museum</item>
+        <item value = "OIAOffice">OIA Office</item>
+        <item value = "OVP">Office for Vincentian Mission</item>
+        <item value = "ArchiveOffice">Archive Office</item>
+        <item value = "AUFEA">AUFEA</item>
+        <item value  = "Alumni">Alumni</item>
+        <item value = "LawLib">College of Law Library</item>
+        <item value = "MootCourt">College of Law Moot Court</item>
+        <item value = "CGradute">College of Graduate</item>
+    </string-array>
+
+    <string-array name="Room2nd">
+        <item value="adr">ADR</item>
+        <item value="aggsa">AGGSA</item>
+        <item value = "lawFaculty">College of Law Faculty Room</item>
+        <item value = "comsciDept">CS Department</item>
+        <item value = "crF">Female Comfort Room</item>
+        <item value = "confeRoom">Graduate School Conference Room</item>
+        <item value = "consultRoom">Graduate School Consultation Room</item>
+        <item value  = "deanOffice">Graduate School Dean Office</item>
+        <item value = "lao">Legal Aid Office</item>
+        <item value = "crM">Male Comfort Room</item>
+        <item value = "room202">Room 202</item>
+        <item value = "room203">Room 203</item>
+        <item value = "room204">Room 204</item>
+        <item value = "room212">Room 212</item>
+        <item value = "room213">Room 213</item>
+        <item value = "room214">Room 214</item>
+        <item value = "room215">Room 215</item>
+        <item value = "room216">Room 216</item>
+        <item value = "room217">Room 217</item>
+        <item value = "room218">Room 218</item>
+    </string-array>
+
+    <string-array name="Room3rd">
+        <item value="acomss">ACOMSS Office</item>
+        <item value="comsciLab">CS Dept. Network Lab</item>
+        <item value = "csDigiLab">CS Dept. Digital Design Lab</item>
+        <item value = "CSPresent">CS Presentation Room</item>
+        <item value = "crF">Female Comfort Room</item>
+        <item value = "crM">Male Comfort Room</item>
+        <item value = "room301">Room 301</item>
+        <item value = "room302">Room 302</item>
+        <item value = "room303">Room 303</item>
+        <item value = "room304">Room 304</item>
+        <item value = "room305">Room 305</item>
+        <item value = "room306">Room 306</item>
+        <item value = "room307">Room 307</item>
+        <item value = "room308">Room 308</item>
+        <item value = "room309">Room 309</item>
+        <item value = "room310">Room 310</item>
+        <item value = "room311">Room 311</item>
+        <item value = "room312">Room 312</item>
+        <item value = "room313">Room 313</item>
+        <item value = "room314">Room 314</item>
+        <item value = "room315">Room 315</item>
+        <item value = "room316">Room 316</item>
+        <item value = "room317">Room 317</item>
+    </string-array>
+
+</resources>

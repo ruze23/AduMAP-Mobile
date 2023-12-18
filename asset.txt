@@ -1,0 +1,21 @@
+#0e0f3b PRIMARY
+#142232 PRIMARY DARK
+#212121 PRIMARY TEXT
+#757575 SECONDARY TEXT
+#ECECEC INPUT BG
+#20FFFFFF ICON BG
+#B00020 ERROR
+#090D16 RECEIVED MSG
+
+#fcfcfb
+
+   <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#0e0f3b</color>
+    <color name="primary_dark">#142232</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="input_bg">#ECECEC</color>
+    <color name="icon_bg">#20FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="msg_received">#090D16</color>
